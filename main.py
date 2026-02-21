@@ -1,1 +1,1 @@
-prin("Hello PSG College of Technology, Coimbatore!")
+error fucntion()

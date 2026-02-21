@@ -1,0 +1,14 @@
+name: Run After Merge
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print message
+        run: echo "This workflow ran after merge into main"

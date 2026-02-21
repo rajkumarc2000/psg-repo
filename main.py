@@ -1,1 +1,1 @@
-print("Hello PSG College of Technology, Coimbatore!")
+prin("Hello PSG College of Technology, Coimbatore!")
